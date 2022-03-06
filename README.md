@@ -1,13 +1,11 @@
 # CaesarCipher
 Caeaser Cipher is one of the simplest and most well-known encryption technologies.
-
 The python code encrypts or decrypts your message.
-
-If you want to encrypt the message
-Run the program
-Type "encrypt" >>>>> "make sure the spelling is correct" :)
-Then write your message
-Then enter a private number >>> This number is shared between you and the recipient of the message.
+1. If you want to encrypt the message
+* Run the program
+* Type "encrypt" >>>>> "make sure the spelling is correct" :)
+* Then write your message
+* Then enter a private number >>> This number is shared between you and the recipient of the message.
 ==================================================
 To decrypt a message you received.
 Run the program.
